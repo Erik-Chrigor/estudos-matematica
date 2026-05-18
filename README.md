@@ -5,6 +5,7 @@ Repositório dedicado para registrar revisões, teoremas, anotações de lógica
 ## 📌 Linha de Estudo Atual
 * **UA 1 / UA 2:** Pensamento Matemático, Lógica Proposicional e Teoria dos Conjuntos.
 * **Próximos Passos:** Álgebra Linear, Funções e James Stewart (Cálculo).
+* **Cálculo diferencial e Cálculo integral.
 
 ## 📂 Estrutura do Repositório
 * `/logica`: Proposições, tabelas verdade e conectivos.
